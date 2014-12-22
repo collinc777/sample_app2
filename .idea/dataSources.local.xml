@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails sample_app: development" uuid="a2ca60cf-07bc-4fa6-9932-5c003cd2fe57">
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails sample_app: test" uuid="2c4ede2c-ad36-4a76-9fd2-ab0e667331d8">
+      <first-sync>true</first-sync>
+    </data-source>
+  </component>
+</project>
